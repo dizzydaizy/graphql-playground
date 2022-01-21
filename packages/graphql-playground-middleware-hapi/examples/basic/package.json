@@ -13,7 +13,7 @@
   "dependencies": {
     "apollo-server-hapi": "^2.14.0",
     "graphql": "^15.0.0",
-    "graphql-tools": "^6.0.3",
+    "graphql-tools": "^8.0.0",
     "@hapi/hapi": "^19.1.1"
   }
 }
