@@ -164,7 +164,7 @@
     "subscriptions-transport-ws": "^0.9.5",
     "utility-types": "^1.0.0",
     "webpack-bundle-analyzer": "^3.3.2",
-    "zen-observable": "^0.7.1"
+    "zen-observable": "^0.8.15"
   },
   "lint-staged": {
     "*.{ts,tsx}": [
